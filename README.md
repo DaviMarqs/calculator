@@ -4,5 +4,5 @@
 
 
 <div align="center">
-  <img width="400" height="280" src="https://github.com/DaviMarqs/calculator/blob/main/gif/calculadora%20gif.gif">
+  <img width="400" height="220" src="https://github.com/DaviMarqs/calculator/blob/main/gif/calculadora%20gif.gif">
 </div>
